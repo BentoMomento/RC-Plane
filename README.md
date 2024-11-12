@@ -6,3 +6,6 @@ the diagram below show the system :
 The system mainly consist with 2 parts:
 -  The transmitter processes the joystick input and sends the data out using radio frequency
 -  The receiver is responsible for receiving the data at a defined frequency
+
+Library used:
+[Arduino-STM32-nRF24L01](https://github.com/nopnop2002/Arduino-STM32-nRF24L01)
